@@ -1,2 +1,0 @@
-# js-hindi
-javascript learning 
